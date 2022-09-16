@@ -1,0 +1,6 @@
+﻿  Criss-Cross.cpp
+c:\крестики-нолики\tic tac toe\criss-cross.cpp(6): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\крестики-нолики\tic tac toe\criss-cross.cpp(50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\крестики-нолики\tic tac toe\criss-cross.cpp(198): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\крестики-нолики\tic tac toe\criss-cross.cpp(214): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tic tac toe.vcxproj -> C:\крестики-нолики\tic tac toe\Debug\tic tac toe.exe
